@@ -1,0 +1,27 @@
+{
+  "name": "crash-course-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc && node dist/src/main.js",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodandoLab/crash-course-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodandoLab/crash-course-typescript/issues"
+  },
+  "homepage": "https://github.com/CodandoLab/crash-course-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4",
+    "@types/jest": "^26.0.24",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.6"
+  }
+}
