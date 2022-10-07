@@ -20,7 +20,7 @@ Pronto, já pode começar a usar o projeto!
 
 ## Não sei nada e agora?
 
-Fiz um [video]() explicando os principais conceitos do Typescript que foram escritos no arquivo `src/main.ts`, use ele para se guiar nos conceitos e tentar resolver os desafios
+Fiz um [video](https://youtu.be/x2ZrxIHnBqc) explicando os principais conceitos do Typescript que foram escritos no arquivo `src/main.ts`, use ele para se guiar nos conceitos e tentar resolver os desafios
 
 ## Fazendo os desafios
 
